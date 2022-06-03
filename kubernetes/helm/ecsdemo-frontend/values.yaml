@@ -51,7 +51,7 @@ ingress:
 #     kubernetes.io/ingress.class: traefik
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: a542967be0a5947b7b5928637e91fec2-564828128.ap-northeast-1.elb.amazonaws.com
+    - host: onecommarb.com
       paths:
         - path: /
           pathType: ImplementationSpecific
